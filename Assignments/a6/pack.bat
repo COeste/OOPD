@@ -26,7 +26,7 @@
 
 
 @echo off
-set ASSIGNMENT=4
+set ASSIGNMENT=6
 set GROUP=CGDOE
 
 jar cvf A.%ASSIGNMENT%.%GROUP%.jar lib/ src/
